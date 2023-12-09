@@ -1,6 +1,5 @@
 # Password Generator
 
-![Password Generator](./assets/password-generator.png)
 
 ## Table of Contents
 - [Introduction](#introduction)

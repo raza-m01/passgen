@@ -24,7 +24,8 @@ This is a simple and secure password generator web application that allows users
 
 ## Demo
 
-![Sequence 04_1](https://github.com/raza-m01/passgen/assets/113848902/b8db728f-9aa7-4dc5-8567-66ab3075e3b5)
+![Sequence 04 1-1](https://github.com/raza-m01/passgen/assets/113848902/e47a15ff-833f-4d53-b56b-71bf9356510b)
+
 
 
 Check out the live demo [here](https://idyllic-croissant-1303c9.netlify.app/).
@@ -36,7 +37,7 @@ To run the Password Generator locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/password-generator.git
+    git clone https://github.com/raza-m01/password-generator.git
     ```
 
 2. Navigate to the project directory:
